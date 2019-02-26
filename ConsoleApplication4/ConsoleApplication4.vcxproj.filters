@@ -26,10 +26,10 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ConsoleApplication4.cpp">
+    <ClCompile Include="poker.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="poker.cpp">
+    <ClCompile Include="PokerGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
